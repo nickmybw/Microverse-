@@ -1,0 +1,41 @@
+#main {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+#title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#img-div {
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-style: italic;
+}
+
+#tribute-info {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+#tribute-link {
+  display: block;
+  font-size: 18px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: blue;
+}
